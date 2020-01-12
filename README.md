@@ -4,8 +4,8 @@
 [![license](https://img.shields.io/github/license/takeyamajp/docker-debian-sshd.svg)](https://github.com/takeyamajp/docker-debian-sshd/blob/master/LICENSE)
 
 ## Supported tags and respective Dockerfile links  
-- [`latest`, `debian10`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian10/Dockerfile)
-- [`debian9`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian9/Dockerfile)
+- [`latest`, `debian10`, `buster-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian10/Dockerfile)
+- [`debian9`, `stretch-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian9/Dockerfile)
 
 ## Image summary
     FROM debian:buster-slim  
