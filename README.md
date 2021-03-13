@@ -1,4 +1,5 @@
 # debian-sshd
+Star this repository if it was useful for you.  
 [![Docker Stars](https://img.shields.io/docker/stars/takeyamajp/debian-sshd.svg)](https://hub.docker.com/r/takeyamajp/debian-sshd/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/takeyamajp/debian-sshd.svg)](https://hub.docker.com/r/takeyamajp/debian-sshd/)
 [![license](https://img.shields.io/github/license/takeyamajp/docker-debian-sshd.svg)](https://github.com/takeyamajp/docker-debian-sshd/blob/master/LICENSE)
