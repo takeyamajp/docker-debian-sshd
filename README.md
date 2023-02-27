@@ -9,6 +9,9 @@ Star this repository if it is useful for you.
 - [`debian10`, `buster-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian10/Dockerfile)
 - [`debian9`, `stretch-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian9/Dockerfile)
 
+ ### Supported architectures: ([`more info`](https://github.com/docker-library/official-images#architectures-other-than-amd64))  
+ `amd64`, `arm64(for Raspberry Pi)`
+
 ## Image summary
     FROM debian:bullseye-slim  
     MAINTAINER "Hiroki Takeyama"
