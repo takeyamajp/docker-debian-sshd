@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:buster
 MAINTAINER "Hiroki Takeyama"
 
 # timezone
