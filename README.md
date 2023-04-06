@@ -5,15 +5,16 @@ Star this repository if it is useful for you.
 [![license](https://img.shields.io/github/license/takeyamajp/docker-debian-sshd.svg)](https://github.com/takeyamajp/docker-debian-sshd/blob/master/LICENSE)
 
 ## Supported tags and respective Dockerfile links  
-- [`latest`, `debian11`, `bullseye-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian11/Dockerfile)
-- [`debian10`, `buster-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian10/Dockerfile)
-- [`debian9`, `stretch-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian9/Dockerfile)
+- **[`debian12` `bookworm`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian12/Dockerfile), [`bookworm-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian12/slim/Dockerfile) (Debian 12 is currently in a state "testing".)**
+- [`latest` `debian11` `bullseye`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian11/Dockerfile), [`bullseye-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian11/slim/Dockerfile)
+- [`debian10` `buster`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian10/Dockerfile), [`buster-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian10/slim/Dockerfile)
+- [`debian9` `stretch`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian9/Dockerfile), [`stretch-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian9/slim/Dockerfile)
 
  ### Supported architectures: ([`more info`](https://github.com/docker-library/official-images#architectures-other-than-amd64))  
  `amd64`, `arm64(for Raspberry Pi)`
 
 ## Image summary
-    FROM debian:bullseye-slim  
+    FROM debian:bullseye  
     MAINTAINER "Hiroki Takeyama"
     
     ENV TZ Asia/Tokyo
