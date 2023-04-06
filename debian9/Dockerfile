@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM debian:stretch
 MAINTAINER "Hiroki Takeyama"
 
 # timezone
