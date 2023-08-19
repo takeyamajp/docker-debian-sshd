@@ -14,7 +14,7 @@ Star this repository if it is useful for you.
  `amd64`, `arm64(for Raspberry Pi)`
 
 ## Image summary
-    FROM debian:bullseye  
+    FROM debian:bookworm  
     MAINTAINER "Hiroki Takeyama"
     
     ENV TZ Asia/Tokyo
