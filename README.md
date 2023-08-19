@@ -5,8 +5,8 @@ Star this repository if it is useful for you.
 [![license](https://img.shields.io/github/license/takeyamajp/docker-debian-sshd.svg)](https://github.com/takeyamajp/docker-debian-sshd/blob/master/LICENSE)
 
 ## Supported tags and respective Dockerfile links  
-- **[`debian12` `bookworm`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian12/Dockerfile), [`bookworm-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian12/slim/Dockerfile) (Debian 12 is currently in a state "testing".)**
-- [`latest` `debian11` `bullseye`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian11/Dockerfile), [`bullseye-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian11/slim/Dockerfile)
+- [`latest` `debian12` `bookworm`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian12/Dockerfile), [`bookworm-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian12/slim/Dockerfile)
+- [`debian11` `bullseye`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian11/Dockerfile), [`bullseye-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian11/slim/Dockerfile)
 - [`debian10` `buster`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian10/Dockerfile), [`buster-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian10/slim/Dockerfile)
 - [`debian9` `stretch`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian9/Dockerfile), [`stretch-slim`](https://github.com/takeyamajp/docker-debian-sshd/blob/master/debian9/slim/Dockerfile)
 
